@@ -26,4 +26,4 @@ jobs:
         run: npm test
 
       - name: Build and Deploy
-        uses: omkartapale/react-deployement-gh-pages@v1.0.0
+        uses: omkartapale/react-deployment-gh-pages@v1.0.0
