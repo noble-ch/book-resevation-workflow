@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-resevation-workflow/static/css/main.75c00059.css",
+    "main.js": "/book-resevation-workflow/static/js/main.3f157c23.js",
+    "index.html": "/book-resevation-workflow/index.html",
+    "main.75c00059.css.map": "/book-resevation-workflow/static/css/main.75c00059.css.map",
+    "main.3f157c23.js.map": "/book-resevation-workflow/static/js/main.3f157c23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c00059.css",
+    "static/js/main.3f157c23.js"
+  ]
+}
