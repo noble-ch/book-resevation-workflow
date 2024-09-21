@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout2@v2
+      - uses: actions/checkout2@v3
 
       - name: Setup up Node.js
         uses: actions/setup-node@v2
